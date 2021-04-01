@@ -1,0 +1,7 @@
+C:\Users\Αλευρά Γεωργία\source\repos\Fibonacci_For\Fibonacci_For\bin\Debug\Fibonacci_For.exe.config
+C:\Users\Αλευρά Γεωργία\source\repos\Fibonacci_For\Fibonacci_For\bin\Debug\Fibonacci_For.exe
+C:\Users\Αλευρά Γεωργία\source\repos\Fibonacci_For\Fibonacci_For\bin\Debug\Fibonacci_For.pdb
+C:\Users\Αλευρά Γεωργία\source\repos\Fibonacci_For\Fibonacci_For\obj\Debug\Fibonacci_For.csprojAssemblyReference.cache
+C:\Users\Αλευρά Γεωργία\source\repos\Fibonacci_For\Fibonacci_For\obj\Debug\Fibonacci_For.csproj.CoreCompileInputs.cache
+C:\Users\Αλευρά Γεωργία\source\repos\Fibonacci_For\Fibonacci_For\obj\Debug\Fibonacci_For.exe
+C:\Users\Αλευρά Γεωργία\source\repos\Fibonacci_For\Fibonacci_For\obj\Debug\Fibonacci_For.pdb
